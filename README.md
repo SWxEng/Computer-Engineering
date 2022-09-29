@@ -1,2 +1,1 @@
-# Computer-Engineering
-الهندسة الحاسوب
+# Computer Engineering الهندسة الحاسوب
